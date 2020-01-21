@@ -19,7 +19,7 @@ Java 8
 
 **Try to access a resource without any auth info, wil get a 401.**
 
-**Let's get the tokens**
+**Let's get the tokens via Postman**
 ```
 1. Paste this in URL bar: http://localhost:8085/oauth/token?grant_type=password&username=bill&password=abc123
 
