@@ -1,0 +1,10 @@
+server:
+  port: 8085
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3307/techmantra
+    username: arojit
+    password: root
