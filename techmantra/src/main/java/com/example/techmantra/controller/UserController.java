@@ -26,7 +26,7 @@ public class UserController {
         return new ResponseEntity<Response>(response,HttpStatus.CREATED);
     }
 
-    @RequestMapping(value = "get-user", method = RequestMethod.GET)
+    @RequestMapping(value = "/get-user", method = RequestMethod.GET)
     public Iterable getUser(){
         return userRepository.findAll();
     }
