@@ -1,5 +1,10 @@
 # spring-boot-oauth2
-REST APIs Security
+Secure Spring REST API using OAuth2.
+
+**Terminologies**
+```
+Resource Owner, Authorization Server, Resource Server
+```
 
 **Tools and Techniques**
 ```
