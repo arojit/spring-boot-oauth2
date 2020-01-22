@@ -16,7 +16,7 @@ Java Spring Boot, JPA-Hibernate, Rest APIs, MySQL, OAuth2
 Java 8
 ```
 
-**Run the following commands for setting up MYSQL in your machine as a docker container.**
+**Run the following commands to start the application.**
 ```
 > ./gradlew build
 > java -jar build/libs/techmantra-0.0.1-SNAPSHOT.jar
